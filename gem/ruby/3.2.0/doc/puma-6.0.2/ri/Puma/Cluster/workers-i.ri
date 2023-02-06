@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"workers:ETI"Puma::Cluster#workers;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"1Returns the list of cluster worker handles. ;TI"1@return [Array<Puma::Cluster::WorkerHandle>];T:
+@fileI"lib/puma/cluster.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Puma::Cluster;TcRDoc::NormalClass0
