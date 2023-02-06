@@ -1,2 +1,0 @@
-U:RDoc::Attr[iI"options:ETI"Puma::Runner#options;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"0Returns the hash of configuration options. ;TI"+@return [Puma::UserFileDefaultOptions];T:
-@fileI"lib/puma/runner.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Puma::Runner;TcRDoc::NormalClass0
