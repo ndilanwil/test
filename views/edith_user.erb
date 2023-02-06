@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="login.css">
+        <link rel="icon" href="image.png">
+        <title>My BaseCamp | Edith profile</title>
+    </head>
+    <body>
+        <section class="signup">
+            <form action="editUser" method="post" class="inputs">
+                <center><h1>Edith User</h1></center>
+                <p>
+                    <label>Name</label><br>
+                    <input class="input" type="text" name="n_userName" >
+                </p>
+                <p>
+                    <label>Email</label><br>
+                    <input class="input" type="email" name="n_email" >
+                </p>
+                <p>
+                    <label>New Password</label><br>
+                    <input class="input" type="password" name="n_password" >
+                    <span>(Leave blank if you don''t want to change)</span>
+                </p>
+                <p>
+                    <label>New Password</label><br>
+                    <input class="input" type="password" name="v_password" >
+                </p>
+                <p>
+                    <label>Current Password</label><br>
+                    <input class="input" type="password" name="c_password" required>
+                </p>
+                <center>
+                    <input class="submit" type="submit" value="Update">
+                </center>
+            </form>
+            
+        </section>
+    </body>
+</html>
