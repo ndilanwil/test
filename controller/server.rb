@@ -1,11 +1,10 @@
-
 require 'socket'
 require 'sinatra'
 require 'json'
-require '../models/project.rb'
-require '../models/user.rb'
-require '../models/database.rb'
-require '../models/user_projects.rb'
+require './models/user.rb'
+require './models/database.rb'
+require './models/user_projects.rb'
+require './models/project.rb'
 require 'sqlite3'
 
 enable :sessions
